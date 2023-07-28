@@ -1,0 +1,6 @@
+<p>Check Out My Channel!</p>
+
+
+<center><a href="https://www.youtube.com/channel/UCdqBiHGf1oDVgPgnGLBh6Zg">
+  <img src="files/profilepicture.jpg" alt="My Channel">
+</a></center>
